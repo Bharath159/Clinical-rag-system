@@ -1,0 +1,626 @@
+====================================================================
+INSULIN MANAGEMENT AND DIABETIC KETOACIDOSIS GUIDELINES - 2023
+====================================================================
+
+1. PHYSIOLOGICAL OVERVIEW
+
+1.1 Insulin Secretion and Metabolism
+Normal Physiology:
+- Insulin synthesized in pancreatic beta cells (islets of Langerhans)
+- Released in two phases: Immediate phase (2-5 minutes) and sustained phase (gradual release)
+- Half-life: 5-6 minutes in circulation; metabolized by kidneys and liver
+- Acts via tyrosine kinase receptors on cell surfaces
+- Glucose-dependent secretion; stimulated by elevated blood glucose
+
+Physiology of Insulin Action:
+- Glucose uptake: Enhanced in muscle and adipose tissue via GLUT4 translocation
+- Protein synthesis: Amino acid uptake and incorporation into proteins
+- Lipogenesis: Inhibits lipolysis; promotes fat storage
+- Antiketotic effect: Suppresses fatty acid oxidation and ketone production
+- Inhibits hepatic glucose output: Reduces gluconeogenesis and glycogenolysis
+
+1.2 Glucose Counterregulation
+Hormones Opposing Insulin:
+- Glucagon: Released when glucose < 70 mg/dL; increases hepatic glucose output
+- Catecholamines (epinephrine/norepinephrine): Increase glucose, decrease insulin secretion
+- Cortisol: Increases gluconeogenesis and peripheral insulin resistance
+- Growth hormone: Impairs glucose utilization, increases lipolysis
+
+Compromise in Type 1 Diabetes:
+- Absolute insulin deficiency
+- Beta cell destruction (autoimmune)
+- Loss of glucagon response after ~5 years disease duration
+- Increased susceptibility to ketoacidosis
+
+2. INSULIN PREPARATIONS AND PHARMACOKINETICS
+
+2.1 Bolus (Rapid-Acting) Insulins
+
+Humalog (Insulin Lispro):
+- Onset: 5-15 minutes
+- Peak: 60-90 minutes
+- Duration: 4-6 hours
+- Concentration: 100 U/mL standard
+- Formulation: U-100 vials, pens, or pumps
+- Advantages: Rapid onset, predictable peak
+- Used: With meals or correction doses
+
+NovoLog (Insulin Aspart):
+- Onset: 10-20 minutes
+- Peak: 40-50 minutes
+- Duration: 3-5 hours
+- Similar efficacy and profile to lispro
+- Interchangeable with lispro in most situations
+- Available in vials, pens, and pump compatibility
+
+Apidra (Insulin Glulisine):
+- Onset: 10-20 minutes
+- Peak: 50-60 minutes
+- Duration: 4-6 hours
+- Least used clinically but comparable profile
+
+Regular Insulin (Crystalline Zinc Insulin):
+- Onset: 30-60 minutes
+- Peak: 2-3 hours
+- Duration: 5-8 hours
+- Advantages: Longest track record, inexpensive, IV stable
+- Disadvantages: Slower onset, longer duration than analogs
+- Used: When rapid-acting not available or for IV infusions
+
+2.2 Intermediate-Acting Insulins
+
+NPH Insulin (Neutral Protamine Hagedorn):
+- Onset: 2-4 hours
+- Peak: 6-10 hours (variable, sometimes biphasic)
+- Duration: 10-16 hours (highly variable between individuals)
+- Concentration: 100 U/mL
+- Formulation: Cloudy suspension; requires mixing
+- Advantages: Inexpensive, long acting
+- Disadvantages: Variable action, injection twice daily often needed, hypoglycemia risk
+- Used: Basal insulin or mixed formulations
+
+2.3 Long-Acting (Basal) Insulins
+
+Lantus (Insulin Glargine U-100):
+- Onset: 2-4 hours
+- Peak: Peakless (relatively flat profile)
+- Duration: > 24 hours (up to 36 hours)
+- Concentration: 100 U/mL or U-300
+- Advantages: Predictable, once-daily dosing, true basal insulin
+- Disadvantages: Cannot mix in syringe with other insulins (unless using pens for separate injection)
+- Used: Daily basal insulin, once daily usually sufficient
+
+Levemir (Insulin Detemir):
+- Onset: 2-4 hours
+- Peak: Some peak effect at 6-8 hours (less pronounced than NPH)
+- Duration: 15-24 hours
+- Concentration: 100 U/mL
+- Advantages: Once or twice daily options, Flexible dosing
+- Disadvantages: Usually requires twice-daily dosing for full 24-hour coverage
+- Used: Basal insulin, flexibility in dosing
+
+Tresiba (Insulin Degludec):
+- Onset: 6-8 hours
+- Peak: Peakless (ultra-long acting)
+- Duration: > 42 hours
+- Concentration: 100 U/mL or U-200
+- Advantages: Very long acting, flexible dosing days, less hypoglycemia risk
+- Disadvantages: Highest cost, delayed onset
+- Used: Once-daily basal insulin with good glycemic control
+
+2.4 Mixed Insulin Preparations
+
+70/30 Insulin (NPH/Regular):
+- 70% NPH, 30% Regular
+- Onset: 30-60 minutes (regular component)
+- Peak: 2-4 hours (regular), 6-10 hours (NPH)
+- Duration: 10-16 hours
+- Given twice daily with meals
+- Less flexible than basal-bolus regimens
+
+50/50 Insulin (NPH/Regular):
+- Similar characteristics to 70/30
+- Less frequently used
+- Greater rapid-acting component
+
+LysproMix 75/25 (NPL/Lispro):
+- 75% protamine lispro, 25% lispro
+- Faster onset than 70/30 due to lispro component
+- Given before meals
+
+Humulin/Novolin (Various Ratios Available):
+- Similar principles with different ratios
+- Pre-mixed convenience but less flexible dosing
+
+3. INSULIN INITIATION IN TYPE 2 DIABETES
+
+3.1 Indications for Insulin Therapy
+Type 2 diabetes initiation considerations:
+- Failing on other agents (metformin, GLP-1 RA, SGLT2-I, DPP-4-i, sulfonylurea)
+- HbA1c repeatedly > 8-9% despite maximal oral therapy
+- Presenting with new diabetes and significant hyperglycemia (glucose > 250-300 mg/dL)
+- Pregnancy with gestational diabetes not controlled on other agents
+- Renal insufficiency (eGFR < 30) limiting oral drug options
+- Acute severe hyperglycemia (> 400 mg/dL) during acute illness
+- DKA or HHS (requires insulin)
+
+3.2 Basal Insulin Initiation (Most Common Approach)
+
+Starting Dose:
+- Weight-based: 0.1-0.2 units/kg daily
+- Example: 100 kg patient = 10-20 units daily
+- Conservative approach: Start 10 units daily or 0.1 units/kg
+- Adjust upward more aggressively (2-4 units every 3-7 days) if needed
+
+Titration Strategy:
+- Review fasting glucose every 3-7 days
+- Target fasting glucose: 90-130 mg/dL
+- Increase basal insulin by 2-4 units (or 10% dose) if fasting glucose > 130
+- Check for daytime/evening hyperglycemia; may need bolus insulin addition
+- Once fasting glucose controlled, reassess HbA1c at 2-3 months
+
+Addition of Bolus Insulin:
+- If fasting glucose controlled but daytime/postmeal hyperglycemia persists
+- Add rapid-acting insulin 4-10 units with largest meal initially
+- Titrate based on pre-meal and 2-hour post-meal glucose patterns
+- Full basal-bolus regimen: Basal insulin daily + rapid-acting with each meal
+
+3.3 Basal-Bolus Regimen (Intensive Insulin Therapy)
+
+Regimen Components:
+Basal (Background) Insulin:
+- Long-acting insulin (Lantus, Levemir, Tresiba)
+- Administered once daily (or split into twice daily for Levemir)
+- Goal: Maintain fasting glucose < 130 mg/dL, suppress hepatic glucose output
+- Typically 40-50% of total daily insulin needs
+
+Bolus (Mealtime) Insulin:
+- Rapid-acting insulin (Humalog, Novolag, Apidra)
+- Administered before main meals (breakfast, lunch, dinner)
+- Doses calculated based on:
+  * Carbohydrate content of meal (carb counting/carb ratios)
+  * Current blood glucose (correction factor)
+  * Target glucose
+  * Individual sensitivity
+- Typically 50-60% of total daily insulin needs
+
+3.4 Insulin Dosing Calculations
+
+Carbohydrate-to-Insulin Ratio (CIR):
+- Determines mealtime bolus dose
+- Calculated as: 1 unit of insulin per X grams of carbohydrates
+- Example: 1:10 ratio = 1 unit per 10g carbs
+- A 60g meal with 1:10 ratio = 6 units bolus
+- Varies individually; often 1:10 to 1:20 in type 2 diabetes
+
+Correction Factor (Insulin Sensitivity Factor):
+- Determines how much 1 unit of insulin lowers glucose
+- Calculated as: 1 unit of insulin lowers glucose by X mg/dL
+- Example: 1:50 factor = 1 unit lowers glucose 50 mg/dL
+- Varies individually; often 1:40 to 1:60 in type 2 diabetes
+- Estimated using: 1800/total daily insulin units (or 1500 for more conservative)
+
+Mealtime Insulin Calculation:
+Bolus dose = (Carbs/CIR) + ((Current Glucose - Target) / Correction Factor)
+
+Example Calculation:
+- Current glucose: 180 mg/dL
+- Target glucose: 120 mg/dL
+- CIR: 1:15
+- Correction factor: 1:50
+- Meal carbs: 45g
+
+Calculation: (45/15) + ((180-120)/50) = 3 + 1.2 = 4.2 units insulin (round to 4 units)
+
+4. HYPERGLYCEMIA IN HOSPITALIZED PATIENTS
+
+4.1 Significance of Inpatient Hyperglycemia
+Connections to Outcomes:
+- Hyperglycemia (> 180 mg/dL) associated with:
+  * Impaired immune function
+  * Increased infection risk
+  * Increased cardiovascular events
+  * Poor wound healing
+  * Increased mortality (variable depending on underlying illness)
+- Effect independent of prior diabetes diagnosis
+- Often temporary (related to illness/stress)
+- Gradual resolution as acute illness improves
+
+4.2 Inpatient Glucose Target Goals
+
+General Inpatients:
+- Target: 140-180 mg/dL
+- Avoids hypoglycemia risk while controlling hyperglycemia
+- Reasonable balance for most patients
+
+Critically Ill Patients:
+- Target: 150-180 mg/dL (slightly higher to avoid hypoglycemia)
+- Tight control (80-110) shown to increase hypoglycemia without major benefit
+- Hypoglycemia itself associated with worse outcomes
+
+Localized Infections/Sepsis:
+- Target: < 180 mg/dL for infection control
+- Benefits infection outcomes and mortality
+
+Post-Operative Patients:
+- Target: < 180 mg/dL
+- Improves surgical site infection rates
+- Reduces cardiac complications
+
+4.3 Inpatient Insulin Protocols
+
+Subcutaneous Basal-Bolus Regimen (Preferred):
+For non-critical patients:
+- Basal: Long-acting insulin dose (calculate from admission glucose if not on home insulin)
+- Every 6 hours: Glucose checks
+- Mealtime: Rapid-acting bolus insulin
+- Bedtime: Additional intermediate or rapid-acting as needed
+- Dosing algorithm: Insulin dose based on glucose + carb content
+
+Trans-meningeal (Sliding Scale, Not Preferred):
+- Outdated: Using only glucose to determine insulin without basal component
+- Issues: Reactive (treats high glucose after already elevated), higher hyperglycemia rates
+- Better as backup only between basal doses or for PO variability
+
+Intravenous Insulin Infusion (ICU/Critical Illness):
+Indications:
+- Hyperglycemic crisis (DKA, HHS)
+- Severe hyperglycemia in ICU patient
+- Perioperative (especially cardiac surgery)
+- Refractory hyperglycemia on SC insulin
+- NPO status with prolonged illness
+- Hemodynamic instability
+- Expected significant fluctuations in glucose
+
+Protocol:
+- Infusion: Dilute 100 units regular insulin in 100 mL normal saline (1 unit/mL)
+- Initial infusion rate: 2-5 units/hour (0.1 units/kg/hour typical)
+- Glucose checks: Every 1 hour initially, then every 2-4 hours if stable
+- Titration: Increase by 1-2 units/hour every 1-2 hours if glucose > 200
+- Decrease by 1-2 units/hour if glucose < 100 or dropping rapidly
+- Addition of dextrose: Add to IV if glucose < 100 mg/dL
+- Transition: Switch to SC insulin once patient improving and stable
+
+4.4 Transition from IV to Subcutaneous
+When Patient Stable for Transition:
+- Able to tolerate meals or tube feeding
+- Hemodynamically stable
+- No acute deterioration
+- Declining insulin requirement (good sign)
+
+Transition Protocol:
+- Calculate total insulin used in last 24 hours (IV + boluses)
+- New subcutaneous regimen: ~80% of previous IV daily requirement
+- Basal: ~40-50% of new daily requirement (long-acting insulin)
+- Boluses: ~50-60% divided among meals
+- Continue IV insulin for 2 hours after first SC dose (allows insulin peaks)
+- Check glucose 2-4 hours after transition
+- Adjust SC doses based on glucose trends
+
+5. DIABETIC KETOACIDOSIS (DKA)
+
+5.1 Definition and Pathophysiology
+
+Definition:
+- Metabolic emergency characterized by:
+  * Hyperglycemia (usually > 250 mg/dL)
+  * Metabolic acidosis (pH < 7.3, bicarbonate < 15)
+  * Ketonemia/ketonuria
+  * Osmolality usually < 320 mOsm/kg (distinguishing from HHS)
+
+Pathophysiology:
+- Absolute or relative insulin deficiency
+- Excess counterregulatory hormones (glucagon, catecholamines, cortisol, GH)
+- Increased lipolysis: Free fatty acids → liver → ketone body production
+- Ketones (acetoacetate, beta-hydroxybutyrate, acetone): Overcome buffering capacity
+- Severe metabolic acidosis: pH often 7.1-7.3 (sometimes < 7.0)
+- Osmolality remain < 320 (vs HHS 320-350+)
+- Kussmaul respirations: Compensatory hyperventilation
+
+5.2 Precipitants of DKA
+
+Infection:
+- Most common precipitant (30-40% of cases)
+- UTI, pneumonia, meningitis common sites
+- Even asymptomatic bacteriuria can trigger
+
+Diabetes Non-Compliance:
+- New diagnosis or missed insulin doses
+- Common in adolescents and young adults
+- 20-30% of DKA cases
+
+Acute Illness/Stress:
+- Myocardial infarction
+- Stroke
+- Surgery/trauma
+- Hyperthyroidism
+- Increased counterregulatory hormones from illness stress
+
+Insulin Pump Problems:
+- Mechanical failure
+- Infusion set disconnection
+- Battery depletion
+- Particularly rapid onset (within hours)
+
+New Diagnosis:
+- Type 1 diabetes presenting acutely
+- 20-30% of T1DM diagnoses present as DKA
+- Children, adolescents at high risk
+
+Rarer Causes:
+- Medications (SGLT2 inhibitors, atypical antipsychotics, corticosteroids)
+- Pregnancy (gestational diabetes or pre-existing T1DM)
+- Idiopathic (no clear precipitant identified)
+
+5.3 Clinical Presentation
+
+Symptoms:
+- Polyuria, polydipsia (hours to days of history)
+- Nausea and vomiting (often severe, may not be from GI pathology)
+- Abdominal pain (may be severe, not always clear cause)
+- Fatigue, weakness
+- Headache, chest pain, altered mental status
+- Rapid, deep breathing (Kussmaul respirations)
+- Altered consciousness in severe cases
+
+Physical Examination:
+- Rapid, deep respirations (characteristic pattern)
+- Fruity odor on breath (acetone)
+- Dry mucous membranes, poor skin turgor (dehydration)
+- Hypotension (from significant fluid loss)
+- Tachycardia
+- Altered mental status, confusion, or coma (severe cases)
+- Abdominal tenderness (pancreatic inflammation, DKA-related pain)
+
+5.4 Diagnostic Evaluation
+
+Laboratory Tests:
+Plasma Glucose:
+- Usually > 250 mg/dL
+- Can be normal (euglycemic DKA) or very high (> 800 mg/dL)
+- Check venous blood gas or serum pH
+
+Arterial or Venous Blood Gas:
+- pH < 7.35 (confirm metabolic acidosis)
+- HCO3 < 15 mEq/L (low bicarbonate)
+- Negative anion gap (actually metabolic acidosis component)
+- PaCO2 low (compensatory hyperventilation, Kussmaul)
+
+Ketones:
+- Serum beta-hydroxybutyrate preferred (more accurate than urine ketones)
+- > 3.0 mmol/L indicative of DKA
+- Urine ketones positive (though can lag serum)
+- Some labs now include beta-hydroxybutyrate in comprehensive metabolic panels
+
+Electrolytes:
+- Sodium: Often low (hyponatremia) or normal with artificial hyponatremia from hyperglycemia
+- Potassium: Total body depleted BUT serum K+ often elevated initially (acidemia shifts K+ out of cells)
+- Chloride: Low (hyperchloremic metabolic acidosis component)
+- Calculated osmolality: Usually < 320 mOsm/kg (key distinguishing from HHS)
+
+Anion Gap:
+- Calculated: Na - (Cl + HCO3)
+- Normal: 8-16 mEq/L
+- In DKA: Elevated (> 15) due to ketone accumulation
+- Serial measurement: Anion gap normalizes with treatment (ketones convert to neutral metabolites)
+
+Common Laboratory Panel:
+- CBC: WBC often elevated (stress response, infection)
+- Creatinine: Often elevated (prerenal azotemia from dehydration)
+- BUN elevated
+- Amylase/lipase: May be mildly elevated (DKA can cause inflammatory pancreatitis)
+- LFTs: Generally normal unless concurrent illness
+- Urinalysis: Often shows ketones, glucose; pyuria if infection precipitant
+- Lactate: Check for hyperlactatemia (worse prognosis)
+
+5.5 Severity Assessment
+
+Mild DKA:
+- pH 7.25-7.30
+- HCO3 15-18 mEq/L
+- Alert or mildly confused
+- Serum osmolality < 320
+
+Moderate DKA:
+- pH 7.15-<7.25
+- HCO3 10-<15 mEq/L
+- Alert or drowsy
+- Moderate dehydration
+
+Severe DKA:
+- pH < 7.15
+- HCO3 < 10 mEq/L
+- Altered consciousness (stupor/coma)
+- Severe dehydration
+- Potential for multi-organ dysfunction
+
+5.6 Treatment of DKA
+
+Phase 1: Initial Stabilization and Assessment
+
+1. Establish IV access:
+- Two large-bore IV lines preferred
+- Central line if severe hemodynamic compromise
+- Labs drawn from initial IV: Glucose, BMP, pH/gas, ketones, CBC, lactate, ECG
+
+2. Cardiac Monitoring:
+- Continuous ECG monitoring (hyperkalemia risk)
+- Monitor for peaked T-waves, widened QRS (hyperkalemia signs)
+
+3. Oxygen Supplementation:
+- Target SpO2 > 94%
+- Don't over-oxygenate (avoid hyperoxia)
+- Respiratory support if altered mental status (aspiration risk)
+
+4. Diagnostic Confirmation:
+- Blood glucose: Confirm hyperglycemia
+- Serum electrolytes: Confirm hypokalemia, hyperkalemia, calculate anion gap
+- Serum creatinine: Assess baseline renal function (impacts fluid replacement)
+- Blood/urine cultures if infection suspected
+- Pregnancy test if female of childbearing age
+- Consider ECG changes suggesting acute MI or other acute illness
+- Imaging only if high suspicion for other acute pathology
+
+Phase 2: Fluid Resuscitation
+
+Goals:
+- Replace severe volume depletion (typically 5-10 liters lost)
+- Restore intracellular and extracellular fluid
+- Lower glucose gradually and appropriately
+- Restore renal perfusion and urine output
+
+Fluid Replacement Protocol:
+- First hour: 1-1.5 L normal saline IV bolus (approximately 15 mL/kg)
+- Subsequent hours:
+  * Calculate deficit: (Current sodium X 0.6 X kg) - normal sodium (140)
+  * Replace half deficit in first 8-12 hours, remainder in next 24 hours
+  * Maintenance fluids: Add ~200-300 mL/hour for urine output and insensible losses
+  * Example: 80 kg patient with Na 128: Deficit = (128 X 0.6 X 80) - (140 X 0.6 X 80) = 6144 - 6720 = 576 mEq from sodium depletion; fluid replacement ~4 liters over 24 hours
+- Rate adjustment: Slow if cerebral edema suspected; faster if hypotensive or renal dysfunction
+- NS infusion as glucose approaches 250 mg/dL  → switch to 5% dextrose with NS or KCl (to continue insulin infusion without hypoglycemia)
+- Reassess volume status hourly: Vital signs, CVP if available, urine output goal > 0.5 mL/kg/hour
+- Signs of adequate fluid replacement: Improved urine output, normalized BP, decreased resting HR
+
+Phase 3: Potassium Replacement and Monitoring
+
+Critical Point:
+- Total body potassium depleted in ALL DKA cases (typically 5-10 mEq/kg loss)
+- Serum K+ often HIGH initially (due to acidemia; K+ shifts out of cells)
+- K+ MUST be repleted before or concurrent with insulin (insulin drives K+ into cells)
+- Failure to repleted K+ can result in severe hypokalemia and cardiac arrhythmias
+
+K+ Replacement Protocol:
+Initial serum K+ < 3.5 mEq/L:
+- Hold insulin; give potassium replacement FIRST
+- KCl 20-40 mEq/L in IV fluids
+- Recheck K+ after 1-2 hours of replacement before starting insulin
+- Goal: Bring K+ to 4-5 mEq/L range before insulin
+
+Initial serum K+ 3.5-5.0 mEq/L:
+- Start potassium replacement: 20-30 mEq/L in IV fluids
+- Can initiate insulin concurrently
+- Recheck K+ every 2-4 hours
+- Adjust K+ administration based on serum levels
+
+Initial serum K+ > 5.5 mEq/L:
+- Do NOT give potassium yet
+- Proceed with insulin and fluids
+- Monitor K+ closely (will drop significantly)
+- Start K+ replacement when K+ < 5.5
+- Check K+ every 1-2 hours even if hyperkalemic
+
+Target potassium levels during treatment: 4-5 mEq/L
+
+Phase 4: Insulin Infusion
+
+Initiation:
+- Start when K+ > 3.5 mEq/L (critical!)
+- Delayed until K+ replacement if initially low
+- Regular insulin IV infusion preferred (only IV-stable insulin)
+
+Insulin Protocol:
+- Preparation: 100 units regular insulin in 100 mL normal saline (1 unit/mL concentration)
+- Initial infusion: 0.1 units/kg/hour (typical 5-10 units/hour)
+- Example: 80 kg patient = 8 units/hour
+- Can give IV bolus 10 units before infusion (optional; accelerates response)
+
+Titration:
+- Check glucose every 1 hour initially
+- Increase infusion by 1-2 units/hour every 1-2 hours if glucose > 300 or not decreasing appropriately
+- Target glucose decrease: 50-100 mg/dL per hour (~5-10% reduction)
+- When glucose reaches 200-250 mg/dL:
+  * Switch IV fluids to 5% dextrose with normal saline or LR
+  * Maintain insulin infusion (don't stop abruptly)
+  * Add potassium to fluids (20-40 mEq/L)
+  * Reduce insulin rate if needed (goal: maintain glucose 150-200 mg/dL until acidosis resolved)
+
+Transition to Subcutaneous:
+- Start when:
+  * pH > 7.30
+  * HCO3 > 15-18 mEq/L (approaching normal)
+  * Patient tolerating oral intake
+  * Mild DKA or improving trend
+- Start basal insulin (0.2-0.3 units/kg or patient's home dose if known)
+- Continue IV insulin for 1-2 hours after first SC dose (overlapping coverage)
+- Bolus insulin: 5-10 units with meals
+- Adjust based on glucose trends
+
+5.7 Monitoring and Reassessment During Treatment
+
+Labs to Repeat:
+- Serum glucose: Every 1 hour initially, every 2-4 hours once glucose stable
+- Serum electrolytes (Na, K, Cl, HCO3): Every 2-4 hours initially
+- Arterial or venous pH: Every 2-4 hours until pH > 7.30
+- Serum beta-hydroxybutyrate or urine ketones: Can check to confirm resolution
+- BUN/creatinine: Track renal function recovery
+
+Vital Signs:
+- Continuously monitor heart rate (watch for arrhythmias)
+- Every 15-30 minutes: BP, RR
+- Hourly: Temperature (watch for infection)
+- Hourly: Urine output (goal > 0.5 mL/kg/hour)
+- Mental status assessment
+
+Labs Trending Toward Resolution:
+- Glucose: 150-250 mg/dL
+- pH: > 7.30
+- HCO3: > 15-18 mEq/L
+- K+: 4-5 mEq/L
+- Anion gap normalizing
+- Respiratory rate normalizing (less Kussmaul)
+- Patient alert and oriented
+
+5.8 Complications During Treatment
+
+Cerebral Edema:
+- Rare (< 1% of DKA cases but ~1% mortality from it)
+- Risk factors: Young age, new T1DM diagnosis, severe acidosis, rapid treatment
+- Symptoms: Altered mental status worsening, headache, bradycardia, hypertension, seizures
+- Prevention: Slow fluid replacement in young/new diagnosis patients
+- Treatment: Mannitol 0.5-1 g/kg IV, dexamethasone, restrict further fluid, mechanical ventilation if respiratory compromise
+
+Arrhythmias:
+- Related to: Hypokalemia (after K+ drops), hyperkalemia (initially), acidosis, cardiac ischemia
+- Monitor: Continuous ECG
+- Prevention: Appropriate K+ replacement
+- Treatment: Standard ACLS algorithms
+
+Rhabdomyolysis:
+- Can occur in severe DKA
+- Monitor: CK levels
+- Treatment: Aggressive hydration, maintain urine output > 1 mL/kg/hour
+
+Acute Kidney Injury:
+- From dehydration and rhabdomyolysis
+- Monitor: Creatinine trending, urine output
+- May require dialysis if severe
+
+Hypoglycemia:
+- Risk during insulin infusion and SC transition
+- Prevention: Glucose monitoring, adding dextrose to fluids when glucose < 250
+- Treatment: IV dextrose, D50 amps, or juice if alert
+
+5.9 Resolution of DKA
+
+Discharged When:
+- pH > 7.30
+- HCO3 > 15 mEq/L (typical goal > 18)
+- Anion gap normalized or near normal
+- Oral intake tolerated
+- Nausea/vomiting resolved
+- Patient reliable for outpatient insulin administration
+- Precipitant identified and managed (if possible)
+- Follow-up arranged
+
+Discharge Planning:
+- Diabetes education (especially if new diagnosis)
+- Insulin prescription: Injectable pens or vials
+- Glucose monitoring supplies: Meters, strips, lancets
+- Appointment with type 1 diabetes specialist or endocrinology
+- Education on DKA warning signs and sick day management
+- Supplies: Ketone testing (blood or urine), particularly for pumps users
+- Psychiatric support if attempted medication omission
+
+====================================================================
+END OF INSULIN GUIDELINES
+=====================================================================

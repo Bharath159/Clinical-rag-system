@@ -1,0 +1,26 @@
+[project]
+name = "clinical-rag"
+version = "0.1.0"
+description = "Clinical RAG Project"
+requires-python = ">=3.9"
+dependencies = [
+    "pdfplumber",
+    "sentence-transformers",
+    "chromadb",
+    "langchain",
+    "openai",
+    "streamlit",
+    "python-dotenv",
+    "rank-bm25",
+    "faiss-cpu",
+    "transformers",
+    "tiktoken",
+    "anthropic",
+]
+
+[project.scripts]
+clinical-rag = "src.cli:run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

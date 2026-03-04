@@ -1,0 +1,396 @@
+====================================================================
+COMMUNITY-ACQUIRED PNEUMONIA (CAP) MANAGEMENT GUIDELINES - 2023
+====================================================================
+
+1. DEFINITION AND EPIDEMIOLOGY
+
+1.1 Definition
+Community-acquired pneumonia is defined as infection of the lung parenchyma associated with 
+acute illness (symptoms < 2 weeks) in ambulatory patients who do not meet criteria for 
+hospitalization or who are hospitalized but infection did not begin until after 48 hours of hospitalization.
+
+1.2 Epidemiology
+Incidence: 4-7 million cases annually in the United States
+Hospitalization rate: 900,000-1,000,000 per year
+Mortality: 1-4% in outpatients, 5-10% in hospitalized patients, 30-40% in ICU patients
+Cost: Over $15 billion annually in direct and indirect costs
+Seasonality: More common in winter months, particularly during influenza season
+
+1.3 Risk Factors and Severity Predictors
+High-Risk Comorbidities:
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma
+- Chronic heart failure
+- Chronic kidney disease
+- Diabetes mellitus
+- Immunosuppression (HIV, malignancy, immunosuppressive therapy)
+- Chronic liver disease
+- Structural lung disease (bronchiectasis, prior tuberculosis)
+
+Age-Related Risk:
+- Age ≥ 65 years associated with worse outcomes
+- Children < 5 years at increased risk
+
+Social/Behavioral Risk:
+- Active smoking
+- Excessive alcohol use
+- Drug use (especially with impaired consciousness)
+- Recent hospitalization or antibiotic use
+- Living in crowded conditions
+
+2. CLINICAL PRESENTATION AND DIAGNOSIS
+
+2.1 Symptoms
+Classic Presentation:
+- Cough (productive or nonproductive): Present in 70-80% of cases
+- Fever (temperature > 38°C): Present in 60-70%
+- Dyspnea: Present in 50-75%
+- Pleuritic chest pain: Present in 30-40%
+- Sputum character: May be mucoid, purulent, or blood-tinged
+
+Atypical Presentations:
+- Elderly patients may present with altered mental status without fever
+- Immunocompromised patients may have minimal symptoms
+- Viral prodrome preceding bacterial infection
+- GI symptoms (nausea, vomiting, diarrhea)
+- Myalgias and arthralgias
+
+2.2 Physical Examination Findings
+Respiratory Findings:
+- Tachypnea (respiratory rate > 30 suggests severe disease)
+- Hypoxemia (oxygen saturation < 92% concerning)
+- Crackles/rales on auscultation (consolidation)
+- Bronchial breath sounds (consolidation)
+- Wheezes (airway obstruction)
+- Dullness to percussion (pleural effusion)
+- Egophony (spoken words sound nasal when auscultated)
+
+Cardiovascular Findings:
+- Tachycardia (> 100 bpm associated with worse prognosis)
+- Hypotension (systolic BP < 90 mmHg component of severe sepsis)
+- Signs of right heart strain in severe cases
+
+General:
+- Levels of consciousness/confusion
+- Signs of dehydration
+- Cyanosis
+
+2.3 Diagnostic Imaging
+Chest X-ray:
+- Gold standard for pneumonia diagnosis
+- Infiltrate patterns: Lobar (typical bacteria), bronchial (atypical), interstitial (viral, fungal)
+- Extent of disease: Single vs multiple segments
+- Complications: Pleural effusion, empyema, pneumothorax
+- Cavitation: Consider TB or fungal disease
+- Response to therapy at follow-up
+
+CT Chest:
+- High-resolution CT for atypical presentations
+- Evaluation of complications (empyema, lung abscess)
+- Assessment for underlying malignancy
+- Not routinely indicated but useful in severe or worsening cases
+
+2.4 Microbiology and Culture
+Sputum Culture:
+- Obtain before antibiotics when possible
+- Interpret based on Gram stain results
+- Pure growth of organism more useful than mixed flora
+- Important for de-escalation of therapy
+
+Blood Cultures:
+- Obtain in hospitalized patients, especially if severe
+- Positive in 10-20% of pneumococcal CAP
+- Less likely positive in atypical pathogens
+
+Rapid Diagnostic Tests:
+- Influenza and RSV testing: Guides antiviral therapy decisions
+- Legionella urinary antigen: If legionella suspected
+- Streptococcal pneumoniae urinary antigen: Invasive disease indicator
+
+3. PATHOGENIC ORGANISMS AND EPIDEMIOLOGY
+
+3.1 Common Organisms
+Streptococcus pneumoniae:
+- Most common cause of bacterial CAP (30-40% of cases)
+- Risk factors: Age, COPD, asplenia, smoking
+- Presentation: Rapid onset, often with pleurisy
+
+Haemophilus influenzae (NTHi):
+- Less common in vaccinated populations
+- Associated with COPD
+- Risk factors: Smoking, male gender
+
+Atypical Organisms (20-30% of CAP):
+Mycoplasma pneumoniae: Young age, gradual onset, nonproductive cough
+Chlamydia pneumoniae: Older age, associated with atherosclerosis discussion
+Legionella pneumophila: Elderly, immunocompromised, contaminated water source
+- Presents with high fever, GI symptoms, altered mental status
+- Extrapulmonary complications (hepatitis, rhabdomyolysis)
+
+Viral Causes (15-30% of CAP):
+- Influenza A/B: Winter months, rapid onset, myalgias
+- Rhinovirus: Year-round, often self-limited
+- Parainfluenza, coronavirus, adenovirus
+- RSV: Winter months, elderly and immunocompromised at high risk
+
+Gram-Negative Bacilli:
+- Klebsiella pneumoniae: COPD, diabetes, alcoholism, risk for cavitation
+- Pseudomonas aeruginosa: COPD exacerbation, cystic fibrosis, recent hospitalization
+- Other Enterobacteriaceae
+
+3.2 Resistant Organisms
+Drug-Resistant Streptococcus pneumoniae (DRSP):
+- Penicillin non-susceptibility: Increased globally
+- High-risk factors: Recent antibiotic use, age > 65
+- Higher mortality with delayed appropriate therapy
+
+Methicillin-Resistant Staphylococcus aureus (MRSA):
+- CAP-MRSA generally less virulent than HA-MRSA
+- Risk: Recent hospitalization, MRSA colonization, COPD
+- Increasing prevalence in community
+
+Antimicrobial resistance patterns vary by geography and healthcare facility
+
+4. SEVERITY ASSESSMENT AND STRATIFICATION
+
+4.1 Severity Scores
+
+CURB-65 Score (for CAP severity/hospitalization decision):
+- Confusion (new acute onset): 1 point
+- Urea (serum > 7 mmol/L): 1 point
+- Respiratory rate (≥ 30): 1 point
+- Blood pressure (SBP ≤ 90 OR DBP ≤ 60): 1 point
+- Age (≥ 65): 1 point
+Interpretation:
+- 0 points: Can treat as outpatient
+- 1 point: Consider hospitalization
+- 2 points: Likely needs hospitalization
+- ≥ 3 points: Severe CAP, consider ICU 
+Mortality increases with each point
+
+PSI (Pneumonia Severity Index) Score:
+- Incorporates demographics, comorbidities, vital signs, laboratory values
+- More complex calculation than CURB-65
+- Risk classes I-V correlate with mortality
+- Class I: < 0.1% mortality (outpatient)
+- Class II-III: Hospitalization versus observation
+- Class IV-V: Hospital admission with consideration for ICU
+
+4.2 Markers of Severe Disease
+Clinical:
+- Respiratory rate ≥ 30 breaths/minute
+- Systolic BP < 90 mmHg
+- Diastolic BP ≤ 60 mmHg
+- Altered mental status/confusion
+- Severe renal disease (serum creatinine > 2 mg/dL)
+- Severe hepatic disease
+- Severe sepsis or septic shock
+
+Radiographic:
+- Bilateral infiltrates
+- Multilobar involvement
+- Rapid progression of infiltrates
+- Pleural effusion
+- Evidence of cavitation
+
+Laboratory:
+- WBC count < 4,000 or > 30,000
+- Severe hypoxemia (PaO2 < 60 mmHg)
+- Arterial pH < 7.35
+- Serum lactate > 2 mmol/L
+- Thrombocytopenia (< 50,000)
+- High PSI score
+
+5. ANTIBIOTIC THERAPY
+
+5.1 Outpatient (Non-Hospitalized) Treatment
+
+Previously Healthy, No Antibiotics in Past 3 Months:
+- Amoxicillin: 1 gram TID × 5-7 days
+- Doxycycline: 100 mg BID × 5-7 days
+- Macrolide (azithromycin): 500 mg day 1, then 250 mg × 4 days
+Note: Respiratory fluoroquinolones highly effective but reserve for resistant pathogens
+
+Risk Factors for Resistance (Comorbidities, Recent Antibiotics):
+- Respiratory fluoroquinolone: Levofloxacin 750 mg daily OR Moxifloxacin 400 mg daily × 5 days
+- Beta-lactam + macrolide: Amoxicillin-clavulanate 875/125 mg BID + Azithromycin
+- Consider local resistance patterns
+
+Clinically Failing Outpatient Therapy:
+- Switch to respiratory fluoroquinolone if not already using
+- Consider hospitalization
+- Evaluate for complications (empyema, abscess)
+- Consider atypical or viral etiology
+
+5.2 Hospitalized, Non-Severe CAP (General Ward)
+
+No Risk Factors for Pseudomonas, MRSA:
+- Beta-lactam (cephalosporin preferred): Ceftriaxone 1-2 g daily OR Cefotaxime 1-2 g equally
+- PLUS macrolide: Azithromycin 500 mg daily
+OR monotherapy with respiratory fluoroquinolone if macrolide allergy
+
+With Risk Factors for MRSA (recent hospitalization, IV drug use, COPD):
+- Include vancomycin: 15-20 mg/kg Q8-12H (goal trough 15-20 mcg/mL)
+- Plus beta-lactam: Ceftriaxone 1-2 g daily
+- Plus fluoroquinolone OR macrolide
+
+With Risk Factors for Pseudomonas (structural lung disease, recent antibiotics):
+- Antipseudomonal beta-lactam: Cefepime 1-2 g Q8-12H OR Piperacillin-tazobactam 4.5 g Q6H
+- PLUS respiratory fluoroquinolone: Levofloxacin or Ciprofloxacin
+- Consider aminoglycoside addition for severe cases
+
+5.3 Severe CAP (ICU Admission)
+Typical Regimen:
+- Beta-lactam (cephalosporin preferred): Ceftriaxone 1-2 g Q12H
+- PLUS macrolide: Azithromycin 500 mg daily
+- PLUS fluoroquinolone: Levofloxacin 750 mg daily
+OR
+- Respiratory fluoroquinolone monotherapy if contraindications to above
+
+With Risk Factors for MRSA (as above):
+- Add Vancomycin: 15-20 mg/kg Q8-12H
+- Plus cephalosporin and macrolide as above
+- Plus fluoroquinolone for atypical coverage
+
+With Risk Factors for Pseudomonas:
+- Antipseudomonal beta-lactam: Cefepime or Piperacillin-tazobactam
+- Plus aminoglycoside: Gentamicin or tobramycin
+- Plus respiratory fluoroquinolone
+- Monitor aminoglycoside levels (peak 8-10, trough 1-2)
+
+5.4 Duration of Antibiotic Therapy
+General Principles:
+- Minimum 5 days for most patients
+- Extend to 10-14 days if:
+  * Severe disease (shock, mechanical ventilation)
+  * Atypical pathogens (Legionella)
+  * Complicated disease (empyema, abscess)
+  * Immunocompromised
+
+Clinical Stability Criteria for Discharge:
+- Temperature ≤ 37.8°C for 48 hours off antipyretics
+- Heart rate < 100
+- Respiratory rate < 24
+- Systolic BP ≥ 90
+- Oral tolerance
+- Improved mental status
+- Oxygenation adequate on room air or home O2
+- Chest imaging stability
+
+5.5 De-escalation
+- Narrow spectrum antibiotics after culture results
+- Transition from IV to oral when clinically stable
+- Consider step-down to beta-lactam alone or fluoroquinolone if coverage broadened initially
+- Avoid unnecessary dual coverage
+
+6. ADJUNCTIVE THERAPIES
+
+6.1 Oxygen Support
+- Goal: SpO2 > 91% (≥ 92% if hypercapnic risk)
+- Nasal cannula: 1-3 L/min for mild hypoxemia
+- Face mask: 5-8 L/min for moderate hypoxemia
+- High-flow oxygen: 40-60% via face mask if severe
+- Mechanical ventilation: Indicated for respiratory failure (RR > 35, severe distress)
+- NIPPV (non-invasive): Consider for hypercapnic COPD exacerbation
+
+6.2 Hydration
+- IV fluids: 1-2 L normal saline initially
+- Target: Euvolemia avoiding overload (pulmonary edema risk)
+- Transition to PO fluids when tolerating
+- Monitor urine output and renal function
+
+6.3 Symptomatic Relief
+- Analgesics for chest pain: Acetaminophen or NSAIDs (caution in dehydration)
+- Cough suppression: Dextromethorphan (avoid in COPD)
+- Bronchodilators: If obstructive airway disease component
+- No routine steroids unless COPD exacerbation
+
+6.4 Antivirals
+- Influenza: Oseltamivir (Tamiflu) 75 mg BID × 5 days
+  * Most effective if started within 48 hours
+  * Consider regardless if severe illness or hospitalization
+  * Reduces duration and severity of symptoms by ~1 day
+- COVID-19: Depending on severity and local recommendations
+  * Remdesivir for hospitalized with hypoxemia
+  * Tocilizumab for severe with rapid deterioration
+
+7. COMPLICATIONS
+
+7.1 Pleural Complications
+Parapneumonic Effusion:
+- Uncomplicated: Exudative, sterile, resolves with antibiotics
+- Complicated: Elevated glucose, positive Gram stain or culture
+- Empyema: Pus in pleural space (frank positive culture)
+- Drainage indicated if: positive culture, pH < 7.0, glucose < 50, LDH > 1000
+- Ultrasound or CT: 50-60% sensitivity for complex effusion
+- Thoracentesis: Diagnostic and therapeutic
+- Chest tube or VATS: If loculated or not improving
+
+7.2 Pneumothorax
+- Risk: Primary spontaneous (young tall men), secondary (COPD)
+- Management: Oxygen, chest tube if large/symptomatic
+- Monitor for tension physiology (hypotension, neck vein distension)
+
+7.3 Lung Abscess
+- Usually follows aspiration pneumonia
+- Symptoms: Foul-smelling sputum, fever
+- Diagnosis: CXR or CT showing cavitation with air-fluid level
+- Treatment: IV antibiotics covering anaerobes (clindamycin or beta-lactam-beta lactamase inhibitor)
+- Drainage: If > 4 cm or not improving in 2-4 weeks
+
+7.4 Sepsis and Septic Shock
+- See separate sepsis guidelines
+- Mortality significantly increased
+- Early recognition and aggressive management critical
+
+8. PREVENTION
+
+8.1 Vaccinations
+Pneumococcal Vaccination (PCV20 or PCV15 + PPSV23):
+- All adults ≥ 19 years with chronic conditions
+- All adults ≥ 65 years
+- PCV15 given first, then PPSV23 at least 1 year later
+- PCV20 is single vaccine alternative
+
+Influenza Vaccination:
+- Annual vaccination for all ≥ 6 months
+- Reduced severity and mortality if infected
+- Especially important for high-risk populations
+
+COVID-19 Vaccination:
+- Following current CDC recommendations
+- Important for immunocompromised and elderly
+
+8.2 Lifestyle Measures
+- Smoking cessation
+- Alcohol moderation
+- Hand hygiene and respiratory etiquette
+- Avoiding exposure to sick individuals
+
+9. SPECIAL POPULATIONS
+
+9.1 Elderly Patients
+- Often present atypically (no fever, altered mental status)
+- Higher mortality even with appropriate therapy
+- More comorbidities requiring drug interactions assessment
+- Consider more aggressive initial therapy
+
+9.2 Immunocompromised
+- HIV/AIDS: Include PCP prophylaxis if CD4 < 200
+- Neutropenic: Rapid progression, consider Pseudomonas coverage
+- Transplant recipients: Broad coverage plus consideration of fungal/viral pathogens
+- Chemotherapy patients: High-risk populations
+
+9.3 COPD and Asthma
+- Higher mortality and complication rates
+- Optimize bronchodilators and steroids
+- Monitor for acute exacerbation component
+
+9.4 Pregnancy
+- Generally safe antibiotics: Beta-lactams, macrolides, fluoroquinolones
+- Avoid tetracyclines
+- Hospitalization if moderate-severe disease
+
+====================================================================
+END OF CAP GUIDELINES
+=====================================================================

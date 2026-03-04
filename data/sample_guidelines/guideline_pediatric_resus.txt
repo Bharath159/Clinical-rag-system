@@ -1,0 +1,468 @@
+====================================================================
+PEDIATRIC RESUSCITATION AND SEPSIS MANAGEMENT - 2023
+====================================================================
+
+1. PEDIATRIC BASIC LIFE SUPPORT (BLS)
+
+1.1 Principles of Pediatric CPR
+
+Key Differences from Adults:
+- Cardiac arrest in children usually secondary (respiratory cause most common)
+- Prevention and early intervention more important
+- Smaller chest: Different compression technique
+- Higher metabolic rate
+- Faster deterioration without oxygen
+- Better neurological outcomes possible with aggressive interventions
+
+Age Categories for Pediatric ACLS (2020 AHA Standards):
+- Infant: < 1 year
+- Child: 1-12 years
+- Adolescent: 12-14 years (can use adult pads if unavailable)
+- Transition at puberty (chest development)
+
+1.2 Recognition and Response
+
+Assessment of Consciousness:
+- Tap shoulders and shout: "Are you okay?"
+- Check for responsiveness and signs of life
+- Do NOT assume unresponsiveness = cardiac arrest
+- Look for gasping (NOT a sign of life; indicates need for CPR)
+
+Initial Response (First 30 seconds):
+- Verify scene safety
+- Activate Emergency Medical Services (call 911 or equivalent)
+- Retrieve AED if available
+- Place child on firm, flat surface
+- Remove restrictive clothing
+- Prepare for CPR
+
+1.3 Compression Technique
+
+Infants (< 1 year):
+- Compression site: Lower third of sternum (below nipple line)
+- Method: Two-fingers (index and middle of one hand) or two thumb encircling technique
+- Hand position: Thumbs on lower sternum, fingers encircling chest
+- Depth: At least 1/3 of chest depth (approximately 1.5 inches; 4 cm)
+- Rate: 100-120 compressions/minute
+- Newborns may not need CPR if cord still attached (cut cord first)
+
+Children (1-12 years):
+- Compression site: Lower half of breastbone (below nipple line)
+- Method: One hand (if small) or heel of two hands (if larger child)
+- Hand position: On lower half of sternum, two fingers above xiphoid
+- Depth: At least 1/3 of chest depth (approximately 2 inches; 5 cm)
+- Rate: 100-120 compressions/minute
+- Push hard and push fast (maintain rate, don't exceed)
+
+Adolescents (> 12 years):
+- Same as adult CPR
+- Compression site: Center of chest (between nipples)
+- Depth: At least 2 inches (5 cm) in adults/large adolescents
+- Rate: 100-120 compressions/minute
+- Use heel of one or two hands depending on size
+
+1.4 Ventilation
+
+Resue Breaths for Unresponsive Non-Breathing Children:
+- Essential for children (better outcomes than compression alone in pediatric arrest)
+- Rate: 1 breath after every 30 compressions (30:2 ratio)
+- Depth: Moderate (watch for chest rise without overinflation)
+- Duration: 1 second per breath
+- Avoid gastric distention (too much volume, too fast)
+
+Rescue Breath Technique:
+- Head-tilt chin-lift (open airway)
+- Pinch nose closed if mouth-to-mouth
+- Sealed pocket mask, if available
+- BVM preferred if trained (avoids mouth-to-mouth)
+- Bag size: Appropriately sized for child (not adult bag)
+- Rate: 12-20 breaths/minute if intubated (1 every 3-5 seconds)
+
+Airway Opening:
+- Head-tilt: Lifting forehead back
+- Chin-lift: Lifting angle of mandible upward
+- Caution: Neck hyperextension unnecessary and potentially harmful
+- Avoid aggressive airway maneuvers if spinal injury suspected
+
+1.5 Defibrillation with AED
+
+When to Use AED:
+- As soon as available for any unresponsive child without pulse
+- Witnessed sudden collapse (higher probability of shockable rhythm)
+- Do NOT delay compressions to search for AED
+
+Ped-Paddles or Dose Attenuator:
+- Infants < 1 year: Defibrillation pad optional (limited evidence, may consider)
+- Children 1-8 years or < 25 kg: Pediatric pads or dose attenuator (reduces energy)
+- > 8 years or > 25 kg: Adult pads and adult doses acceptable
+
+AED Operation:
+- Power on
+- Attach pads per manufacturer instructions
+- Ensure no one touching child
+- Analyze rhythm
+- If shock indicated: Ensure clear, deliver shock
+- Resume CPR immediately after (don't check pulse)
+- Recheck rhythm every 2 minutes (every other check of pulse)
+
+2. PEDIATRIC SEPSIS RECOGNITION
+
+2.1 Definition and Epidemiology
+
+Pediatric Sepsis Definition:
+- Systemic inflammatory response to suspected or confirmed infection
+- With at least two of four SIRS criteria:
+  * Fever (> 38.5°C) or hypothermia (< 36°C)
+  * Tachycardia (> 2 SD above age mean)
+  * Tachypnea (> 2 SD above age-appropriate rate)
+  * Leukocytosis (> 12,000), leukopenia (< 4,000), or > 10% bands or immature forms
+
+Epidemiology:
+- Incidence: 0.5-6.4 cases per 1,000 PICU admissions
+- Most common in hospitalized children
+- Mortality: 2-10% in developed countries (higher in resource-limited settings)
+- Risk factors: Prematurity, immunodeficiency, indwelling catheters, recent surgery
+
+2.2 Clinical Recognition of Sepsis and Shock
+
+Early Warning Signs of Sepsis:
+- Fever with petechial or purpuric rash
+- Fever with extremity pain (indicates possible meningococcemia)
+- Fever with altered mental status or irritability
+- Fever with respiratory distress disproportionate to illness
+- Fever with poor perfusion signs
+- Fever in very young (< 3 months) requires aggressive evaluation
+
+Pediatric Septic Shock Clinical Presentation:
+- Often presents as "cold shock" (vasoconstriction):
+  * Poor perfusion (mottled skin, prolonged capillary refill > 2-3 seconds)
+  * Tachycardia
+  * Cool extremities (core to peripheral temperature gradient)
+  * Oliguria
+  * Acidosis
+- Or "warm shock" (vasodilation):
+  * Bounding pulses
+  * Normal to elevated cardiac output
+  * Warm extremities
+  * Wide pulse pressure
+  * Low systemic vascular resistance
+  * Often progresses to cold shock if untreated
+
+2.3 Age-Specific Vital Sign Parameters
+
+Normal Heart Rates (at rest):
+- Infants (< 1 year): 100-160 bpm
+- Toddlers (1-3 years): 90-150 bpm
+- Preschool (3-6 years): 80-120 bpm
+- School age (6-12 years): 70-110 bpm
+- Adolescents (> 12 years): 60-100 bpm
+
+Tachycardia thresholds (for sepsis definition):
+- > 160 bpm in infants
+- > 150 bpm in toddlers
+- > 130 bpm in preschool
+- > 110 bpm in school age
+- > 100 bpm in adolescents
+
+Normal Respiratory Rates:
+- Infants (< 1 year): 30-60 breaths/min
+- Toddlers (1-3 years): 24-40 breaths/min
+- Preschool (3-6 years): 22-34 breaths/min
+- School age (6-12 years): 18-30 breaths/min
+- Adolescents (> 12 years): 12-16 breaths/min
+
+Tachypnea thresholds (for sepsis definition):
+- > 60 breaths/min in infants
+- > 50 breaths/min in toddlers
+- > 40 breaths/min in preschool
+- > 30 breaths/min in school age
+- > 25 breaths/min in adolescents
+
+Blood Pressure (varies widely by age, weight, gender):
+- Rough estimate: Systolic BP = 90 + (2 × age in years) ± 20
+- Hypotension in septic shock: < 5th percentile for age
+- Refer to pediatric BP charts for exact values
+
+2.4 Sepsis Scoring
+
+pSOFA (Pediatric Quick qSOFA):
+Simplified assessment:
+- Respiratory rate abnormal for age
+- Altered mentation (GCS < 15 or decrease of 3)
+- Systolic BP < 5th percentile for age
+Score ≥ 2: High-risk for poor outcome
+
+Organs scoring system (for sepsis definition):
+- Cardiovascular: Hypotension for age, OR need for vasopressor, OR lactate > 2 mmol/L
+- Respiratory: PaO2/FiO2 < 300, OR PaCO2 > 50, OR need for > 40% oxygen, OR intubation
+- Hematologic: Platelets < 100,000, OR INR > 1.5, OR aPTT > 60
+- Hepatic: Total bilirubin > 1.5 × normal, OR ALT/AST > 3 × normal
+- Neurological: GCS < 11
+- Renal: Creatinine > 1.8 × age normal, OR oliguria
+
+3. PEDIATRIC SEPSIS MANAGEMENT
+
+3.1 Initial Assessment and Stabilization
+
+First 15 Minutes (Golden Hour - Actually First Hour):
+A, B, C Approach:
+A (Airway):
+- Assess airway patency
+- Position for airway opening if needed
+- Prepare equipment for airway support
+- Do NOT delay IV access or fluids for airway
+
+B (Breathing):
+- Assess work of breathing
+- Apply oxygen to achieve SpO2 > 94%
+- Assist ventilation if RR too slow, SpO2 < 90%, respiratory muscle fatigue
+- Prepare for intubation if resp distress severe
+
+C (Circulation):
+- Establish IV or IO (intraosseous) access
+- Assess perfusion (cap refill, skin mottling, extremity temperature, pulses)
+- Begin fluid resuscitation
+- Obtain blood for labs
+
+Immediately:
+- Expose child to assess for petechiae/purpura (meningococcemia hallmark)
+- Continue BLS if needed
+- Summon experienced help/PICU team
+- Prepare for rapid sequence intubation if needed
+
+3.2 Vascular Access
+
+Order of Preference (Seconds to Attempt Each):
+1. Peripheral IV: Largest gauge feasible (18 G if possible, up to 5 seconds)
+2. Intraosseous (IO): If < 30 seconds on peripherals unsuccessful
+   - Most reliable in pediatric emergency, especially < 6 years
+   - Single anterior tibial approach below tibial tubercle
+   - Provides same access as central line for fluids/meds
+   - Complications rare if removed within 24 hours
+3. Central line: After stabilization if needed for ongoing support
+
+Intravenous Fluid Calculation:
+- Frequent medication administration
+- Fluid resuscitation
+- Allow large-bore IV (20G minimum for fluid boluses)
+- Multiple attempts on same extremity not recommended; switch extremities
+
+3.3 Initial Laboratory Tests
+
+Immediate Labs to Obtain:
+- Complete blood count (CBC): Infection pattern, platelet count
+- Comprehensive metabolic panel (CMP): Electrolytes, kidney function, glucose
+- Lactate: Perfusion marker, prognostic indicator
+- Blood gas (arterial or venous): pH, acidosis assessment
+- Procalcitonin or CRP: Inflammatory markers (if available, aids diagnosis)
+- Liver function tests: Assess organ dysfunction
+- Coagulation studies (PT/INR, aPTT): Disseminated intravascular coagulation (DIC) screen
+- Blood cultures: Always before antibiotics (hold results for organism identification)
+- Urinalysis and urine culture: If UTI suspected
+- Site-specific cultures: Based on source
+
+3.4 Fluid Resuscitation
+
+Initial Resuscitation Goal:
+- Restore perfusion
+- Improve lactate
+- Target: Capillary refill < 2-3 seconds, visible urine output, normal mental status
+
+Fluid Selection:
+- Crystalloid: 20 mL/kg bolus IV/IO over 15 minutes
+- Choice: Normal saline (NS) or lactated Ringer's (LR)
+- Can repeat bolus once if signs of shock persist
+- Maximum initial: 60 mL/kg (three boluses)
+- Hypotonic solutions (< 0.9%) avoided
+- Colloids (albumin, FFP): Consider after initial crystalloid if massive volumes needed
+
+Calculation Example:
+- 20 kg child: 20 × 20 = 400 mL IV bolus over 15 minutes
+- Repeat if still in shock
+- Total of 3 boluses maximum (1200 mL) before reassessing
+
+Fluid Bolus Administration:
+- Direct IV line preferred (faster than through pump)
+- Rapid infusion initially over 15 minutes
+- Reassess perfusion after each bolus
+- Monitor for fluid overload (hepatomegaly, crackles, increased respiratory effort)
+- Continue maintenance + deficit + ongoing losses
+
+Maintenance Fluid Calculation (Holliday-Segar):
+- First 10 kg: 100 mL/kg/day
+- Second 10 kg: 50 mL/kg/day
+- Each kg > 20: 20 mL/kg/day
+Example: 25 kg child = (10 × 100) + (10 × 50) + (5 × 20) = 1000 + 500 + 100 = 1600 mL/day
+
+3.5 Vasopressor Support
+
+Indications:
+- Persistent hypotension after two 20 mL/kg boluses of crystalloid
+- Persistent signs of shock (cap refill > 2 seconds, oliguria, lactate > 4)
+- Clinical deterioration despite maximum fluid therapy
+
+Agent Selection:
+
+Epinephrine (Adrenaline, First-line for Cold Shock):
+- Initial dose: 0.01 mg/kg IV (use 1:10,000 concentration)
+- Infusion: 0.1-5 mcg/kg/min titrate to effect (start 0.1 mcg/kg/min)
+- Effects: Alpha and beta (dose-dependent; beta at lower doses, alpha at higher)
+- Titration: Increase by 0.1-0.2 mcg/kg/min every 5-10 minutes
+- Monitor: HR, BP, perfusion, urine output, lactate
+- Goal: Restore systolic BP > 5th percentile, cap refill < 2 seconds, urine output > 1 mL/kg/hour
+
+Normetanephrine/Norepinephrine:
+- Initial infusion: 0.05-1.0 mcg/kg/min
+- Titrate to effect (up to 2.0+ mcg/kg/min)
+- Primary alpha effect with some beta (less than epi)
+- Use: Warm shock with low systemic resistance
+- May be used as first-line in some protocols (varies by center)
+
+Dobutamine:
+- Dose: 2-10 mcg/kg/min IV infusion
+- Inotropic agent: Increases contractility
+- Some vasodilation: May drop BP if used without other agents
+- Use: Combination with epinephrine for low cardiac output state
+- Caution: Tachycardia side effect important in children
+
+Vasopressin:
+- May be added to epinephrine if inadequate response
+- Dose: 0.0003-0.002 units/kg/min
+- Fixed low-dose or higher dose strategies
+- Limited pediatric evidence vs adults
+
+Vasopressor Infusion Preparation:
+- Epinephrine: 0.6 × weight (kg) in mL of 1:10,000 solution in 50 mL bag = 0.1 mcg/kg/min at 1 mL/hr
+- Higher concentrations if rapid escalation of rates needed
+- Preferably via central line (peripheral acceptable briefly)
+
+3.6 Antibiotic Administration
+
+Timing:
+- CRITICAL: Within 1 hour of recognition (same as adults)
+- Do NOT delay for procedures or imaging
+- Cultures obtained before antibiotics when feasible
+- If cultures not obtained: Start antibiotics immediately (blood loss worse than missing culture)
+
+Empiric Antibiotic Selection (Based on Source):
+
+Community-Acquired (CAP presenting as sepsis):
+- Ceftriaxone 50-80 mg/kg/day (divided TID-QID) + Azithromycin 10 mg/kg day 1, then 5 mg/kg daily
+- For MRSA risk: Add Vancomycin 15-20 mg/kg Q6-8H
+- For Pseudomonas risk: Use broader spectrum beta-lactam
+
+Haemophilus influenzae Risk (Unvaccinated):
+- Ceftriaxone or Cefotaxime (crosses blood-brain barrier well)
+
+Meningitis (Suspected CNS source):
+- Ceftriaxone 80 mg/kg/day (TID-QID) + Vancomycin 15-20 mg/kg Q6H
+- Add Ampicillin if < 3 months (Listeria coverage)
+- Dexamethasone 0.15 mg/kg Q6H × 4 days (meningitis-associated complications reduction)
+
+Gram-Negative (Sepsis with abdominal or urinary source):
+- Piperacillin-tazobactam (90 mg/kg/day of piperacillin divided Q6-8H)
+- OR Cephalosporin + Metronidazole (anaerobe coverage)
+- Consider aminoglycoside for Pseudomonas coverage
+
+3.7 Source Control
+
+Surgical Drainage:
+- Abdominal abscess: Percutaneous or surgical drainage critical
+- Delayed source control associated with higher mortality
+- Necrotizing soft tissue: Requires immediate surgical debridement
+
+Central Line Removal:
+- If line-related sepsis suspected: Remove catheter
+- Send segment for culture
+- Replace if continues need
+
+Other Source Control:
+- Foley catheter if infected: Remove and consider new placement
+- Wound management for infected surgical wounds
+- Appendicitis: Appendectomy
+
+3.8 Monitoring and Ongoing Support
+
+Continuous Monitoring:
+- Cardiac rhythm
+- Pulse oximetry
+- Frequent vital signs
+- Neurological status
+- Urine output (target 1 mL/kg/hour)
+- Reassess perfusion frequently (goal cap refill < 2 seconds, skin color normalization)
+
+Lab Monitoring:
+- Serial lactate (most important; goal < 2 mmol/L)
+- Repeat CBC, CMP, coagulation studies every 6-24 hours depending on severity
+- Blood cultures for sterilization if possible
+
+Respiratory Support:
+- Oxygen supplementation to SpO2 > 94%
+- Intubation if:
+  * GCS < 12 (airway protection)
+  * Severe respiratory distress
+  * Inability to maintain SpO2
+  * Planned procedures requiring sedation
+
+Ratios for Intubation:
+- Induction agent: Ketamine preferred (maintains BP), etomidate alternative
+- Paralytic: Rocuronium or vecuronium (depolarizing agents less preferred in acute setting)
+- Pre-oxygenation critical (pediatric desaturation rapid)
+
+4. PEDIATRIC SHOCK CLASSIFICATION
+
+4.1 Warm Shock vs Cold Shock
+
+Cold Shock (Distributive → Hypovolemic):
+- Pale, mottled skin
+- Cool extremities
+- Delayed cap refill (> 2 seconds)
+- Weak pulses
+- Tachycardia
+- Hypotension (late finding)
+- Low urine output
+- Altered mentation
+- Requires fluid + vasopressors
+
+Warm Shock (Distributive → Early):
+- Flushed skin
+- Bounding pulses
+- Brisk cap refill (< 1 second)
+- Warm extremities
+- Wide pulse pressure
+- Normal or elevated BP early
+- Possible high urine output initially
+- May progress to cold shock without intervention
+- Requires fluids primarily; vasopressors if deterioration
+
+5. POST-RESUSCITATION CARE
+
+5.1 PICU Admission
+- All septic children requiring vasopressors
+- Altered mental status
+- Significant organ dysfunction
+- Requirement for advanced ventilation
+
+5.2 Antibiotic De-escalation
+- After culture results and organism identification
+- Narrow to narrowest effective spectrum
+- Typically after 48-72 hours of therapy
+
+5.3 Duration of Therapy
+- Sepsis source-dependent
+- Typically 10-14 days minimum
+- Longer for complicated sources (meningitis, endocarditis)
+
+5.4 Transition Planning
+- Discharge when:
+  * Hemodynamically stable off vasopressors
+  * Tolerating oral/feeding
+  * Mental status normalized
+  * Labs improving
+  * Can complete antibiotics as outpatient
+- Infectious disease follow-up if complicated course
+- Reassess vaccination status (post-illness)
+
+====================================================================
+END OF PEDIATRIC RESUSCITATION GUIDELINES
+=====================================================================

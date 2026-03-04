@@ -1,0 +1,341 @@
+====================================================================
+COMPREHENSIVE HYPERTENSION MANAGEMENT GUIDELINES - 2023
+====================================================================
+
+1. CLASSIFICATION AND RISK STRATIFICATION
+
+1.1 Blood Pressure Categories (ACC/AHA Guidelines)
+Normal: SBP < 120 and DBP < 80 mmHg
+Elevated: SBP 120-129 and DBP < 80 mmHg
+Stage 1 Hypertension: SBP 130-139 or DBP 80-89 mmHg
+Stage 2 Hypertension: SBP ≥ 140 or DBP ≥ 90 mmHg
+Hypertensive Crisis: SBP > 180 and/or DBP > 120 mmHg
+
+1.2 Hypertensive Urgency vs Emergency
+Hypertensive Urgency: Elevated BP without acute end-organ damage
+- Usually amenable to oral therapy
+- Gradual reduction of BP often preferred to avoid stroke risk
+- More common presentation (90% of hypertensive crises)
+
+Hypertensive Emergency: Elevated BP with signs of acute end-organ damage
+- Acute coronary syndrome
+- Acute heart failure with pulmonary edema
+- Hypertensive encephalopathy
+- Intracranial hemorrhage
+- Acute ischemic stroke
+- Acute kidney injury or progressive renal disease
+- Pre-eclampsia or eclampsia
+- Aortic dissection
+- Requires IV antihypertensive therapy
+
+1.3 Risk Stratification
+Cardiovascular Risk Assessment:
+- 10-year cardiovascular risk using Framingham or ASCVD calculator
+- Presence of hypertension-related target organ damage
+- Chronic kidney disease staging (based on GFR and albuminuria)
+- Diabetes mellitus or other comorbidities
+- Family history of premature cardiovascular disease
+
+2. DIAGNOSTIC EVALUATION
+
+2.1 History Taking
+Essential Information:
+- Duration and severity of hypertension
+- Severity and onset of current symptoms
+- Orthostatic symptoms (dizziness, syncope)
+- Headache characteristics: location, duration, severity
+- Chest pain or dyspnea
+- Vision changes or neurological symptoms
+- Medication adherence and side effects
+- Previous episodes of hypertensive crisis
+- Recent cocaine or amphetamine use
+- Medication compliance (including OTC decongestants)
+- Dietary sodium and alcohol intake
+- Episodes of claudication or rest pain
+
+2.2 Physical Examination
+Vital Signs:
+- BP measurement: Both arms, seated and standing positions
+- Orthostatic vital signs: Check for significant drop in BP on standing
+- Heart rate: Document tachycardia or bradycardia
+- Respiratory rate: Assess for respiratory distress
+- Temperature: Rule out infection
+
+Cardiovascular Examination:
+- Cardiac auscultation: Listen for S3 gallop (heart failure), new murmurs
+- Carotid pulses and bruits: Assess for arterial stenosis
+- Peripheral pulses: Compare bilateral extremities for symmetry
+- Abdominal examination: Check for aortic bruit or tenderness
+- Lower extremity edema: Assess severity and distribution
+
+Neurological Examination:
+- Mental status: Assess for confusion, agitation, or altered consciousness
+- Fundoscopic examination: Grade hypertensive retinopathy (papilledema, flame hemorrhages)
+- Motor and sensory examination: Focal deficits suggesting stroke
+- Deep tendon reflexes and gait: Assess for neuropathy
+
+2.3 Diagnostic Testing
+Laboratory Studies for Initial Evaluation:
+- Basic metabolic panel: Electrolytes, glucose, creatinine, BUN for renal function
+- Urinalysis: Proteinuria, hematuria indicating target organ damage
+- Lipid panel: Complete lipid assessment including HDL, LDL, triglycerides
+- Fasting glucose or HbA1c: Screen for diabetes
+- Uric acid: Hyperuricemia associated with hypertension
+- Thyroid function tests: TSH for secondary hypertension workup
+- ECG: Baseline assessment for left ventricular hypertrophy, ischemia, arrhythmias
+- Chest X-ray: Assess cardiac silhouette, pulmonary edema
+- Renal ultrasound or CT: Consider for high-risk features suggesting secondary hypertension
+
+Testing During Hypertensive Crisis:
+- Troponin: Rule out acute coronary syndrome
+- BNP/NT-proBNP: Assess for acute heart failure
+- Blood glucose: Elevated glucose common in hypertensive emergency
+- Magnesium and calcium levels: Affect vasoreactivity
+- Repeat urinalysis: New hematuria or RBC casts suggest acute glomerulonephritis
+- Blood gas analysis: Assess oxygenation and acid-base status if respiratory symptoms
+- CT or MRI brain: Suspected stroke or intracranial hemorrhage
+
+3. CHRONIC HYPERTENSION MANAGEMENT
+
+3.1 Lifestyle Modifications (Part of all treatment)
+Dietary Approaches:
+- DASH diet: Rich in fruits, vegetables, whole grains, and lean proteins
+- Sodium reduction: Target < 2300 mg/day (ideal 1500 mg/day)
+- Potassium-rich foods: Bananas, spinach, sweet potatoes, beans
+- Reduce alcohol: Men 2 drinks/day, women 1 drink/day
+- Limit caffeine: Acute effect on BP, consider individual response
+
+Physical Activity:
+- Aerobic exercise: 150 minutes moderate intensity per week
+- Resistance training: 2 days/week of muscle strengthening
+- Activities: Brisk walking, jogging, cycling, swimming
+- Start gradually: Important for sedentary individuals
+
+Weight Management:
+- Target BMI 18.5-24.9 kg/m²
+- Weight loss of 5-10% improves BP in overweight/obese patients
+- Reduces cardiovascular risk beyond BP benefits
+
+Stress Reduction and Sleep:
+- Meditation, yoga, or tai chi: 30 minutes daily
+- Sleep 7-9 hours daily: Sleep apnea screening with Epworth scale
+- Smoking cessation: Critical for cardiovascular risk reduction
+
+3.2 Pharmacological Treatment Priorities
+Initial Drug Selection Based on Compelling Indications:
+
+ACE Inhibitors or ARBs (First-line):
+- Indications: Diabetes, CKD, post-MI, heart failure, albuminuria
+- Examples: Lisinopril 10 mg daily, Losartan 50 mg daily
+- Benefit: Renal protection, LV remodeling prevention
+- Monitor: Creatinine, potassium for hyperkalemia
+
+Thiazide/Thiazide-like Diuretics (First-line):
+- Indications: Metabolic syndrome, fluid overload, isolated systolic hypertension
+- Examples: HCTZ 25-50 mg daily, Chlorthalidone 12.5-25 mg daily
+- Benefit: Cardiovascular risk reduction, potent in older adults
+- Monitor: Glucose, lipids, uric acid, hypokalemia
+
+Calcium Channel Blockers (First-line):
+- Indications: Coronary artery disease, paroxysmal SVT, advanced age
+- Examples: Amlodipine 5-10 mg daily, Diltiazem 180-240 mg daily
+- Benefit: No metabolic effects, can be combined with other agents
+- Monitor: Reflex tachycardia with dihydropyridines, constipation
+
+Beta-Blockers (Specific Indications):
+- Indications: Post-MI, heart failure with reduced EF, coronary artery disease, tachyarrhythmias
+- Examples: Metoprolol 50-100 mg BID, Carvedilol 12.5-25 mg daily
+- Less effective as monotherapy for uncomplicated hypertension
+- Monitor: Bradycardia, bronchospasm, fatigue
+
+Alpha-Blockers (Specific Indications):
+- Indications: Symptomatic benign prostatic hyperplasia
+- Examples: Doxazosin 4-8 mg daily
+- Not first-line for hypertension alone due to inferior cardiovascular outcomes
+- Monitor: Orthostatic hypotension, syncope
+
+3.3 Target Blood Pressure Goals
+General Adult Population:
+- Goal BP < 130/80 mmHg (based on SPRINT trial evidence)
+- More intensive control reduces CV events but requires monitoring for adverse effects
+
+Special Populations:
+Diabetes Mellitus:
+- Goal BP < 130/80 mmHg
+- SGLT2 inhibitors recommended if CKD present
+- ACE-I or ARB preferred
+
+Chronic Kidney Disease:
+- Goal BP < 130/80 mmHg (more intensive if proteinuria present)
+- ACE-I or ARB first-line to slow renal disease progression
+- Avoid NSAIDs
+
+Aged ≥ 65 years:
+- Goal BP < 130/80 mmHg but individualize based on tolerance and frailty
+- Slow titration to avoid orthostatic symptoms
+- Regular fall risk assessment
+
+4. ACUTE HYPERTENSIVE EMERGENCY MANAGEMENT
+
+4.1 General Approach
+Time to Initiate Therapy: Immediately (within minutes)
+Blood Pressure Reduction Target:
+- First 1 hour: Reduce MAP by 10-20% (or SBP by 15-25 mmHg)
+- Next 2-6 hours: Continued careful reduction to 160/100-110 mmHg
+- Avoid excessive rapid reduction: Risk of stroke or MI from decreased cerebral/coronary perfusion
+
+Monitoring:
+- Continuous cardiac monitoring and pulse oximetry
+- Continuous or frequent NIBP monitoring every 5-15 minutes initially
+- Ideally use arterial line for continuous BP monitoring
+- Frequent neurological checks
+- Urine output monitoring (foley catheter)
+- Serial labs: Electrolytes, creatinine, lactate as needed
+
+4.2 Intravenous Antihypertensive Agents
+
+Nitroprusside (Rapid onset, very potent):
+- Initial dose: 0.3-1 mcg/kg/min IV infusion
+- Titration: Increase by 0.5-1 mcg/kg/min every 5-10 minutes
+- Maximum dose: 2-3 mcg/kg/min (higher risk of toxicity)
+- Duration: 1-2 minutes after cessation
+- Utility: Most potent IV agent, useful for severe hypertensive emergency
+- Cautions: Cyanide toxicity with prolonged use; monitor thiocyanate levels after 72 hours
+- Requires ICU monitoring and arterial line
+
+Nitroglycerin (Mild-moderate reduction):
+- Sublingual: 0.3-0.6 mg every 5-15 minutes
+- IV infusion: 5-100 mcg/min, titrate every 3-5 minutes
+- Duration: 5-10 minutes
+- Utility: Preferred for hypertension with acute coronary syndrome or heart failure
+- Advantage: Improves coronary perfusion
+- Disadvantage: Tolerance develops with prolonged use
+
+Labetalol (Balanced effects, moderate onset):
+- IV bolus: 20 mg over 2 minutes, then 40-80 mg every 10 minutes (max 220 mg)
+- IV infusion: 2 mg/min, titrate to effect (max 160 mg/min)
+- Duration: 3-6 hours
+- Utility: Excellent choice for most hypertensive emergencies including pregnancy
+- Advantage: Combined alpha and beta blockade
+- Caution: Avoid in bradycardia, asthma, or heart block
+
+Nicardipine (Moderate onset, good titrability):
+- IV infusion: 5 mg/hr initially, increase by 2.5 mg/hr every 5-15 minutes
+- Usual range: 15-30 mg/hr
+- Duration: 15-30 minutes after cessation
+- Utility: Excellent for most hypertensive emergencies
+- Advantage: Very predictable BP lowering, can transition to oral quickly
+- Disadvantage: Peripheral infusion acceptable but central line preferred
+
+Hydralazine (Slower onset, less predictable):
+- IV dose: 10-20 mg every 4-6 hours
+- IM dose: 10-50 mg every 4-6 hours
+- Onset: 10-30 minutes IV; 20-30 minutes IM
+- Duration: 3-8 hours
+- Utility: Useful in pregnancy-related hypertensive emergencies
+- Disadvantage: Unpredictable response, reflex tachycardia, lupus-like syndrome with chronic use
+
+Phentolamine (Alpha-blockade for catecholamine excess):
+- IV bolus: 5-15 mg every 5-10 minutes
+- Infusion: 0.5-1.4 mg/min
+- Onset: Immediate
+- Duration: Very short (15-30 minutes)
+- Utility: Pheochromocytoma crisis, cocaine-induced hypertensive emergency
+- Important: Use beta-blockers AFTER alpha-blockade to avoid reflex tachycardia
+
+Esmolol (Rapid onset/offset, beta-blockade):
+- Loading: 0.5-1 mg/kg IV over 1 minute
+- Infusion: 50-200 mcg/kg/min
+- Onset: < 5 minutes
+- Duration: < 10 minutes after cessation
+- Utility: Intraoperative and postoperative hypertension, aortic dissection
+- Advantage: Very short acting, easily titrated
+- Caution: Use with vasodilators for dissection
+
+4.3 Specific Clinical Scenarios
+
+Hypertensive Emergency with Acute MI:
+- Treat with nitroglycerin + beta-blocker combination
+- Avoid positive inotropes; use nitrates for preload reduction
+- Target: Reduce SBP 15-25% in first 1 hour
+- ACE inhibitor once stabilized
+
+Hypertensive Emergency with Acute Stroke:
+- CRITICAL: Avoid aggressive BP lowering in acute ischemic stroke
+- Only lower BP if SBP > 220 mmHg or DBP > 120 mmHg before thrombolytics
+- For hemorrhagic stroke: Target SBP < 140 mmHg
+- Use labetalol or nicardipine for controlled reduction
+
+Hypertensive Emergency with Pulmonary Edema:
+- Nitroglycerin IV: Reduces preload and improves oxygenation
+- IV diuretics: Furosemide 20-40 mg IV for fluid overload
+- Nicardipine or labetalol for additional BP control
+- Consider noninvasive ventilation (CPAP/BiPAP)
+
+Pre-eclampsia and Eclampsia:
+- Avoid ACE inhibitors and ARBs in pregnancy
+- Labetalol: First-line for acute severe hypertension
+- Hydralazine: Alternative agent
+- Magnesium sulfate seizure prophylaxis
+- Obstetric consultation mandatory
+
+Aortic Dissection:
+- Immediate ICU admission
+- Target: SBP < 120 mmHg within 20 minutes
+- Use combination: Esmolol or labetalol PLUS nitroprusside or nicardipine
+- Beta-blockade FIRST to reduce dP/dT (rate of change of pressure)
+- Emergent CT or TEE imaging
+- Surgical consultation
+
+Pheochromocytoma Crisis:
+- Alpha-blockade FIRST with phentolamine or nifedipine
+- Then beta-blockade with esmolol after alpha-blockade established
+- NEVER use beta-blockers alone (unopposed alpha)
+- IV fluids to expand intravascular volume
+- Surgical exploration
+
+5. TRANSITION TO CHRONIC THERAPY
+
+5.1 Timing of Transition
+- Once hypertensive emergency controlled with IV agents
+- BP stabilized at target range
+- Patient able to tolerate oral medications
+- Usually 24-72 hours of IV therapy
+
+5.2 Agent Selection for Transition
+- Transition to agents already on board (home medications) if tolerated
+- Add agents for specific indications if not already present
+- ACE-I/ARB if diabetic or renal disease
+- Beta-blocker if CAD or heart failure
+- Thiazide diuretic if volume overload or metabolic syndrome
+- Calcium channel blocker as alternative to other agents
+
+5.3 Discharge Planning
+- Continue antihypertensive regimen from transition
+- Titrate per outpatient BP readings
+- Follow-up within 1 week
+- Patient education on medication adherence, lifestyle modification
+- Address modifiable risk factors
+- Consider referral to hypertension specialist if secondary cause identified
+
+6. SECONDARY HYPERTENSION WORKUP
+
+Indications for Workup:
+- Hypertension onset before age 30 or after age 60
+- Resistant hypertension (uncontrolled on 3 drugs)
+- Hypertensive emergency without prior HTN
+- Sudden change in BP pattern
+- Associated symptoms
+
+Common Secondary Causes:
+Renal artery stenosis: Severe HTN, refractory to therapy, risk for flash pulmonary edema
+Pheochromocytoma: Severe episodic HTN with sweating, tremor, anxiety, palpitations
+Primary hyperaldosteronism: Hypokalemia, metabolic alkalosis
+Cushings syndrome: Hypertension with Central obesity, striae, proximal weakness
+Hyperthyroidism: Elevated HR, palpitations, heat intolerance
+Sleep apnea: Daytime somnolence, snoring, morning headaches
+Coarctation of aorta: Young age, upper extremity HTN > lower extremity, cardiac murmur
+
+====================================================================
+END OF HYPERTENSION GUIDELINES
+=====================================================================
